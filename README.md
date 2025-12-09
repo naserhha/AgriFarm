@@ -5,7 +5,6 @@
 [![Next.js](https://img.shields.io/badge/Next.js-14-black.svg)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104-green.svg)](https://fastapi.tiangolo.com/)
 
-**GitHub:** [naserhha/agrifarm](https://github.com/naserhha/agrifarm)
 
 
 ## 📋 معرفی
@@ -45,6 +44,10 @@
 ---
 
 ## 🎯 Project Objective – AgriFarm (English, Technical Version)
+
+🌱 AgriFarm — Smart Farming Optimization  
+🚀 AI-based crop recommendation & water/energy prediction  
+📍 Target: Sustainable agriculture for Lake Urmia ecosystem
 
 The primary objective of the AgriFarm Smart Decision Support System for Agricultural Resource Management is to **optimize water and energy efficiency in agriculture while supporting the ecological restoration of Lake Urmia**. The platform leverages artificial intelligence algorithms, data analytics, and predictive modeling on soil, land, water, energy, climate, and crop patterns to enable scientific, data-driven decision-making and scenario simulations for farmers and resource managers.
 
