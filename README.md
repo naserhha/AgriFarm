@@ -9,10 +9,7 @@
 
 ## 📋 معرفی
 
-آگریفارم یک سامانه هوشمند برای کمک به کشاورزان و مدیران منابع کش<img width="2560" height="1298" alt="AgriFarm - سامانه مدیریت کشاورزی هوشمند -  Farms List" src="https://github.com/user-attachments/assets/75731adb-5544-4606-997f-c948fd5cf770" />
-<img width="2560" height="1936" alt="AgriFarm - سامانه مدیریت کشاورزی هوشمند -  dashboard" src="https://github.com/user-attachments/assets/d2ab213b-4f15-477e-a4ce-2ab169dfcf68" />
-<img width="2560" height="1304" alt="AgriFarm - سامانه مدیریت کشاورزی هوشمند -  Ahmad Wheat Farm" src="https://github.com/user-attachments/assets/977a30c4-1a1e-4c89-8674-fe6df0a9decd" />
-اورزی است که:
+آگریفارم یک سامانه هوشمند برای کمک به کشاورزان و مدیران منابع کشاورزی است که:
 - مصرف آب و انرژی را بهینه می‌کند
 - محصول بهینه را پیشنهاد می‌دهد
 - سودآوری اقتصادی را مدیریت می‌کند
@@ -78,12 +75,6 @@ The primary objective of the AgriFarm Smart Decision Support System for Agricult
 - Scenario simulation (economic + ecological)  
 - Smart dashboards  
 - Export to PDF/CSV  
-
-![Uploading AgriFarm - سامانه مدیریت کشاورزی هوشمند - [Product Recommendation - Ahmad Vegetable Farm].png…]()
-<img width="2560" height="2053" alt="AgriFarm - سامانه مدیریت کشاورزی هوشمند -  New Farm" src="https://github.com/user-attachments/assets/020e614d-c478-44d7-83e3-69b52f63fe00" />
-<img width="2560" height="3208" alt="AgriFarm - سامانه مدیریت کشاورزی هوشمند -  Home" src="https://github.com/user-attachments/assets/85ffc00c-c06b-471d-bd19-dd29db2df918" />
-<img width="2560" height="1304" alt="AgriFarm - سامانه مدیریت کشاورزی هوشمند -  Fatemeh Corn Farm" src="https://github.com/user-attachments/assets/a1841745-6729-47e8-971a-afcf19186a11" />
-<img width="2560" height="1298" alt="AgriFarm - سامانه مدیریت کشاورزی هوشمند -  farms" src="https://github.com/user-attachments/assets/588fa6ea-3606-4214-a86a-e236b368a5fe" />
 
 ### Expected Outcomes:
 
