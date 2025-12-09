@@ -1,4 +1,4 @@
-<img width="2560" height="1304" alt="AgriFarm - سامانه مدیریت کشاورزی هوشمند -  Ahmad Vegetable Farm" src="https://github.com/user-attachments/assets/e3d9faa2-0e88-47e5-9566-45a853382297" /># AgriFarm MVP - سامانه مدیریت کشاورزی هوشمند
+# AgriFarm MVP - سامانه مدیریت کشاورزی هوشمند
 
 [![License](https://img.shields.io/badge/License-Proprietary-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
