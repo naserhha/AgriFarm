@@ -1,4 +1,4 @@
-# AgriFarm - سامانه تصمیم یار هوشمند مدیریت منابع کشاورزی بهینه سازی مصرف آب و انرژی  
+# AgriFarm - Intelligent Decision Support System for Agricultural Resource Management and Optimizing Water and Energy Consumption
 
 [![License](https://img.shields.io/badge/License-Proprietary-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
