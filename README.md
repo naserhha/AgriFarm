@@ -4,7 +4,9 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black.svg)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104-green.svg)](https://fastapi.tiangolo.com/)
+
 | ![آگریفارم](frontend/public/screenshots/AgriFarm.PNG) | **AGRIFARM:** سامانه تصمیم یار هوشمند مدیریت کشاورزی |
+|--------------------------------------------------------|--------------------------------------------------------|
 
 
 
