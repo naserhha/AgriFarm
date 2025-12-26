@@ -5,7 +5,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-14-black.svg)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104-green.svg)](https://fastapi.tiangolo.com/)
 
-| ![آگریفارم](frontend/public/screenshots/AgriFarm.PNG) | **:AgriFarm**  سامانه تصمیم یار هوشمند مدیریت منابع کشاورزی برای بهینه سازی مصرف آب و انرژی با هدف حمایت از احیای اکوسیستم دریاچه ارومیه |
+| ![آگریفارم](frontend/public/screenshots/AgriFarm.PNG) | ** سامانه تصمیم یار هوشمند مدیریت منابع کشاورزی برای بهینه سازی مصرف آب و انرژی با هدف حمایت از احیای اکوسیستم دریاچه ارومیه  ** |
 |--------------------------------------------------------|--------------------------------------------------------|
 
 
