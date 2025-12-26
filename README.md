@@ -1,11 +1,11 @@
-# AgriFarm MVP - سامانه مدیریت کشاورزی هوشمند
+# AgriFarm - سامانه تصمیم یار هوشمند مدیریت منابع کشاورزی برای بهینه سازی مصرف آب و انرژی با هدف حمایت از احیای اکوسیستم دریاچه ارومیه 
 
 [![License](https://img.shields.io/badge/License-Proprietary-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black.svg)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104-green.svg)](https://fastapi.tiangolo.com/)
 
-| ![آگریفارم](frontend/public/screenshots/AgriFarm.PNG) |  آگریفارمم سامانه تصمیم یار هوشمند مدیریت منابع کشاورزی برای بهینه سازی مصرف آب و انرژی با هدف حمایت از احیای اکوسیستم دریاچه ارومیه   |
+| ![آگریفارم](frontend/public/screenshots/AgriFarm.PNG) |  آگریفارم سامانه تصمیم یار هوشمند مدیریت منابع کشاورزی برای بهینه سازی مصرف آب و انرژی با هدف حمایت از احیای اکوسیستم دریاچه ارومیه   |
 |--------------------------------------------------------|--------------------------------------------------------|
 
 
