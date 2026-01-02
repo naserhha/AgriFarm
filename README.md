@@ -194,7 +194,7 @@ Frontend در `http://localhost:3000` اجرا می‌شود.
 
 راهنمای کامل مشارکت در فایل [CONTRIBUTING.md](CONTRIBUTING.md) موجود است.
 
-**مخزن GitHub:** [naserhha/agrifarm](https://github.com/naserhha/agrifarm)
+**مخزن GitHub:** [hashemabad/agrifarm](https://github.com/hashemabad/agrifarm)
 
 ## 📚 مستندات بیشتر
 
