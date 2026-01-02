@@ -25,7 +25,7 @@
 در ترمینال، به پوشه frontend بروید و اجرا کنید:
 
 ```bash
-cd /Users/nasser/Desktop/AgriFarm/frontend
+cd /Users/user/Desktop/AgriFarm/frontend
 npm install
 ```
 
